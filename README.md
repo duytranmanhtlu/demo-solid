@@ -1,7 +1,5 @@
 # SOLID Principles Examples using Typescript
 
-This tutorial was insprired from the [Encapsulation SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents) course on Pluralsight.
-
 ## What is SOLID
 
 SOLID is an acronym for 5 important design principles when doing OOP (Object Oriented Programming). These 5 principles were introduced by Robert C. Martin (Uncle Bob), in his 2000 paper Design Principles and Design Patterns.
